@@ -6,15 +6,9 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiPython,
-  DiGit,
   DiJava,
 } from "react-icons/di";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
+import { 
   SiPostgresql,
   SiAngular,SiOracle,SiSpringboot,SiCsharp,SiFlutter,SiMicrosoftsqlserver,SiJquery,SiGithub
 } from "react-icons/si";
