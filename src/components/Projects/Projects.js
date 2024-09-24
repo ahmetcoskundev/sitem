@@ -12,7 +12,7 @@ function Projects() {
           <strong className="purple">Geçmiş Çalışmalarım </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Burda paylaşmamda sıkıntı olmayacağını düşündüğüm projelerin isimleri yer almaktadır. Kurum açısından sıkıntı paylaşılmaması uygun olmayan uygulamaları yazmadım.
+          Burda paylaşmamda sıkıntı olmayacağını düşündüğüm projelerin isimleri yer almaktadır.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
@@ -95,7 +95,7 @@ function Projects() {
             <Col md={4} className="project-card">
             <Card className="project-card-view">
               <Card.Body>
-                <Card.Title>Diğer Projeler(Bu kısımda proje adı veremiyorum ama yapılan yaklaşım 12 uygulama bulunmaktadır.)</Card.Title>
+                <Card.Title>Diğer Projeler(Bu kısımda proje adı veremiyorum ama yapılan yaklaşık 12 uygulama bulunmaktadır.)</Card.Title>
                 <Card.Text style={{ textAlign: "justify" }}>
               Asp.Net Core - Angular---  Personel Takip ve Puantaj
               Java EE - JSF ---Kurumsal uygulamalar
